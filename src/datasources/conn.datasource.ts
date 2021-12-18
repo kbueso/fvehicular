@@ -8,7 +8,7 @@ const config = {
   host: 'cluster0.15fy3.mongodb.net',
   port: 27017,
   user: 'keith',
-  password: 'keith',
+  password: '\keith',
   database: 'flotavehicular',
   useNewUrlParser: true
 };
